@@ -3,5 +3,9 @@ body {
 }
 
 .bg-soft-yellow {
-    background-color: #FFFAE3 !important;
+    background-color: #FFFAE3;
+}
+
+.text-soft-yellow {
+    color: #FFFAE3;
 }
