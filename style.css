@@ -2,6 +2,14 @@ body {
     background-color: #FFFFFC;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Work Sans', sans-serif;
+}
+
+p, a {
+    font-family: 'Bitter', serif;
+}
+
 .bg-soft-yellow {
     background-color: #FFFAE3;
 }
